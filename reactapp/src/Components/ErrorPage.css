@@ -1,0 +1,13 @@
+
+.error-page {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .error-page h2 {
+    color: #c00;
+  }
+  
+  .error-page p {
+    color: #333;
+  }
